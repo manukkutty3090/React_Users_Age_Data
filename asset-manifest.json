@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Users_Age_Data/static/css/main.8eb9b27c.css",
+    "main.js": "/React_Users_Age_Data/static/js/main.4000757c.js",
+    "index.html": "/React_Users_Age_Data/index.html",
+    "main.8eb9b27c.css.map": "/React_Users_Age_Data/static/css/main.8eb9b27c.css.map",
+    "main.4000757c.js.map": "/React_Users_Age_Data/static/js/main.4000757c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb9b27c.css",
+    "static/js/main.4000757c.js"
+  ]
+}
